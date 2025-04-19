@@ -1,0 +1,10 @@
+^D:\FILES\INFPLANE\LOG\INFPARQUET\BUILD\CMAKEFILES\7BE49458DD5B222EFBB6119FF99A2F21\GENERATE.STAMP.RULE
+setlocal
+D:\App\CMake\bin\cmake.exe -SD:/Files/Infplane/Log/infparquet -BD:/Files/Infplane/Log/infparquet/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Files/Infplane/Log/infparquet/build/infparquet.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,5 @@
+D:/Files/Infplane/Log/infparquet/build/CMakeFiles/infparquet.dir
+D:/Files/Infplane/Log/infparquet/build/CMakeFiles/PACKAGE.dir
+D:/Files/Infplane/Log/infparquet/build/CMakeFiles/INSTALL.dir
+D:/Files/Infplane/Log/infparquet/build/CMakeFiles/ALL_BUILD.dir
+D:/Files/Infplane/Log/infparquet/build/CMakeFiles/ZERO_CHECK.dir
