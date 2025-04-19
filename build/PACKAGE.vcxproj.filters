@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Files\Infplane\Log\infparquet\build\CMakeFiles\7be49458dd5b222efbb6119ff99a2f21\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A59D9500-87E0-3E53-855C-D49E8882A070}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
